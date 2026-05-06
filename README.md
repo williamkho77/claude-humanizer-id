@@ -23,7 +23,7 @@ Based on the same approach as [blader/humanizer](https://github.com/blader/human
 ## Install
 
 ```bash
-git clone https://github.com/williamkhoyudia/claude-humanizer-id.git ~/.claude/skills/humanizer-bahasa-Indonesia
+git clone https://github.com/williamkho77/claude-humanizer-id.git ~/.claude/skills/humanizer-bahasa-Indonesia
 ```
 
 Then restart Claude Code.
@@ -59,5 +59,5 @@ Sekarang humanisasi teks ini:
 
 ## Credits
 
-Built by [@williamkhoyudia](https://github.com/williamkhoyudia) with Claude Code.
+Built by [@williamkho77](https://github.com/williamkho77) with Claude Code.
 Inspired by [blader/humanizer](https://github.com/blader/humanizer) and [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
